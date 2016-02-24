@@ -1,4 +1,6 @@
 # LMVD_NTF
+[![Java 1.8.0](https://img.shields.io/badge/Java-1.8.0-orange.svg)](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+[![Platforms OS X | Windows | Linux](https://img.shields.io/badge/Platforms-OS%20X%20%7C%20Windows%20%7C%20Linux%20-lightgray.svg)](https://developer.apple.com/swift/)
 
 This README would normally document whatever steps are necessary to get your application up and running.
 
